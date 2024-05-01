@@ -10,12 +10,6 @@ Download the dataset using the following link: https://www.kaggle.com/c/histopat
 
 Click on the “Download All” button to download the 4 files, once download is completed, unzip it and you can use the file to run our ipynb file provided. 
 
-histopathologic-cancer-detection/
-  ├── train/
-  ├── test/
-  ├── train_labels.csv
-  └── sample_submission.csv
-
 The dataset comprises high-resolution histopathologic scans where each image is labeled as 1 (presence of tumor tissue) or 0 (absence of tumor tissue).
 
 - The `train_labels.csv` file contains the ground truth labels for the training images, where each image is marked as '1' for the presence of tumor tissue and '0' for its absence.
